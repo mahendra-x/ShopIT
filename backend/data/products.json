@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Snadisk ultra 128GB ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://m.media-amazon.com/images/I/617NtexaW2L._SL1500_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "usb adapter (gc-fc-df) ",
+    "price": "415.89",
+    "description": "To Solve usb adpater MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 1.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://m.media-amazon.com/images/I/51OZ-TGl03L._AC_SY879_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Laptop ultra 128GB ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://www.pcworld.com/wp-content/uploads/2021/12/bf-laptop-deals-pcw-22.jpg?quality=50&strip=all"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 52,
+    "reviews": []
+  },
+  {
+    "name": "Camera ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://m.media-amazon.com/images/I/61HRnUdvv6L._AC_SY355_.jpg"
+      }
+    ],
+    "category": "Camera",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "headphones ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://www.sony.co.in/image/caf15b5628303708b232ddb41ec10825?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+      }
+    ],
+    "category": "headphones",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "keyboard ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://i.pcmag.com/imagery/reviews/01LnwPzDtlJP9XzLBk9qdbq-1..v1613506210.png"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 10,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Power of habits ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71iEVsSP1GL.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Football ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://images.news18.com/ibnlive/uploads/2021/08/football-16287529283x2.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Snadisk ultra 128GB ",
+    "price": "45.89",
+    "description": "To Solve MongoParseError: options useCreateIndex useFindAndModify are not supported Error Here in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options. So that just remove that option. and again try to connect as same like below. If you still want to use Options then Just downgrade your Mongoose below the 6.0 version because in Mongoose 6.0 useNewUrlParser, useUnifiedTopology, useFindAndModify, and useCreateIndex are no longer supported options",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "",
+        "url": "https://m.media-amazon.com/images/I/81QjPH8cOnS._SL1500_.jpg"
+      },
+      {
+        "public_id": "",
+        "url": "data:image/jpeg;base64,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"
+      },
+      {
+        "public_id": "",
+        "url": "https://rukminim1.flixcart.com/image/416/416/k5e7o280/usb-adaptor/p/t/v/enter-usb-e-150n-150-mbps-wirelss-lan-adapter-e-150n-original-imafz3gdqddzu56z.jpeg?q=70"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  }
+]
